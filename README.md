@@ -8,6 +8,18 @@
 
 --------
 
+## Getting Started 
+
+### Conduktor 
+
+> Conduktor is a collaborative Kafka Platform providing autonomy, automation, and advanced features for developers, along with security, standards, and regulations for platform teams. See site [here](https://conduktor.io/)
+
+See the `reference` dir for an installation flow on how to configure `Conduktor` for a cloud-based instance of Kafka for prototyping depending on your OS. 
+
+-------
+
+# Appendix
+
 ### Kafka Cluster
 
 <p align="center">
@@ -42,13 +54,7 @@
 --------
 
 
-## Getting Started 
 
-### Conduktor 
-
-> Conduktor is a collaborative Kafka Platform providing autonomy, automation, and advanced features for developers, along with security, standards, and regulations for platform teams. See site [here](https://conduktor.io/)
-
-See the `reference` dir for an installation flow on how to configure `Conduktor` for a cloud-based instance of Kafka for prototyping depending on your OS. 
 
 --------
 
